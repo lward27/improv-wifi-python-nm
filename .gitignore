@@ -1,3 +1,6 @@
 .idea
 venv
 __pycache__
+.gitignore
+improv-wifi-venv/
+improv_config.sh
